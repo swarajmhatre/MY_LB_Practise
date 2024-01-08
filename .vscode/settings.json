@@ -1,6 +1,10 @@
 {
     "files.associations": {
+        "*.embeddedhtml": "html",
         "iostream": "cpp",
-        "SWARAJLIB.C": "cpp"
+        "SWARAJLIB.C": "cpp",
+        "PROGRAM85.C": "cpp",
+        "xstring": "cpp",
+        "cmath": "cpp"
     }
 }
